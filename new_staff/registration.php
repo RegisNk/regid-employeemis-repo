@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RP MUSANZE COLLEGE</title>
+
+    <title>RP MUSANZE COLLEGES</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="bg-light">
@@ -22,7 +23,7 @@
                 <label for="password" class="form-label">Password:</label>
                 <input type="password" id="password" name="password" class="form-control" required>
             </div>
-            <button type="submit" class="btn btngit m-primary w-100">Submit</button>
+            <button type="submit" class="btn btngit-primary w-100">Submit</button>
         </form>
     </div>
 
