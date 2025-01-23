@@ -23,7 +23,7 @@
                 <label for="password" class="form-label">Password:</label>
                 <input type="password" id="password" name="password" class="form-control" required>
             </div>
-            <button type="submit" class="btn btngit-primary w-100">Submit</button>
+            <button type="submit" class="btn btngit-primary w-100">Submit Info</button>
         </form>
     </div>
 
